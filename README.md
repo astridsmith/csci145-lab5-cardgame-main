@@ -1,0 +1,2 @@
+# Go Fish
+This card game involves guessing the opponent's cards and trying to get matches. The player with the most matches at the end of the game (whent the deck is empty or a player runs out of cards) wins. 
